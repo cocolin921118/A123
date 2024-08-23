@@ -7,6 +7,7 @@ namespace A123
         public static void Main(string[] args)
         {
             Console.WriteLine("好想睡覺"); 
+            Console.WriteLine("4654554"); 
         }
     }
 }
